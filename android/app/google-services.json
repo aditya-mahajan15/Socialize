@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "918681142153",
+    "project_id": "socialize-3c5b1",
+    "storage_bucket": "socialize-3c5b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918681142153:android:71c82602925719f7d55758",
+        "android_client_info": {
+          "package_name": "aditya.socialize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918681142153-0qcs9f70kb0r16m64iuou991ohipoa16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aditya.socialize",
+            "certificate_hash": "ca47548d7aa50cccc1e1cc723b764c735d03c65f"
+          }
+        },
+        {
+          "client_id": "918681142153-89tv11hdbdbdpepkk40silnjrs15epsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNSDBzUb3tcPk_XWFRLEVybWRynJB3nJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918681142153-89tv11hdbdbdpepkk40silnjrs15epsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
